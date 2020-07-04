@@ -1,5 +1,5 @@
 # Tampilan Website
-![alt text](https://github.com/Alfian29/Project-Work/blob/master/Capture.PNG)
+![alt text](https://github.com/Alfian29/Project-Work/blob/master/Capture.png)
 
 ![alt text](https://github.com/Alfian29/Project-Work/blob/master/1.PNG)
 
